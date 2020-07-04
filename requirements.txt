@@ -1,7 +1,8 @@
 pandas
-numpy 
+numpy==1.17.4
 scikit-learn
-tensorflow
+tensorflow==2.0.0
 matplotlib
 wordcloud
 seaborn
+pickle
