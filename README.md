@@ -43,6 +43,7 @@ As a bonus task, students can write a script that uses the trained model to clas
 ## References
 * [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
 * [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+* [Net2Vis](https://github.com/viscom-ulm/Net2Vis)
 ```
 @InProceedings{maas-EtAl:2011:ACL-HLT2011,
   author    = {Maas, Andrew L.  and  Daly, Raymond E.  and  Pham, Peter T.  and  Huang, Dan  and  Ng, Andrew Y.  and  Potts, Christopher},
@@ -54,5 +55,15 @@ As a bonus task, students can write a script that uses the trained model to clas
   publisher = {Association for Computational Linguistics},
   pages     = {142--150},
   url       = {http://www.aclweb.org/anthology/P11-1015}
+}
+```
+```
+@article{buerle2019net2vis,
+  title={Net2Vis -- A Visual Grammar for Automatically Generating Publication-Ready CNN Architecture Visualizations},
+  author={Alex Bäuerle and Christian van Onzenoodt and Timo Ropinski},
+  year={2019},
+  eprint={1902.04394},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG}
 }
 ```
